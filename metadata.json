@@ -1,0 +1,5 @@
+{
+  "name": "Email Classifier",
+  "description": "A React web application that uses the Gemini API to classify emails into categories, assign priority, and suggest recipients, along with a brief summary.",
+  "requestFramePermissions": []
+}
